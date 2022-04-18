@@ -2,6 +2,8 @@
 
 Test repository for version control using git
 
+*Adding changes*
+
 # Resources
 - [PACE Georgia Tech Slides - Intro to Git](https://docs.pace.gatech.edu/training/img/PACE_Intro_to_Git_Spring_2022.pdf)
 - [Data Science for Economists by Grant McDermott](https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html#15)
